@@ -18,5 +18,10 @@
             "description": "The number of processes to run.",
             "value": "5"
         }
-    }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/php"
+        }
+    ]
 }
