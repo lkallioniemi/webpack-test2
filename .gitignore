@@ -1,0 +1,9 @@
+.*
+!.git*
+!.editorconfig
+!.env.example
+!.eslintrc
+*~
+/vendor
+/node_modules
+/themes/mll/assets
